@@ -1,6 +1,6 @@
 # DataViz-Diputados
 ## Objetive:
-Describe legislative gender participation and votes types over time using Tableau and Python. I worked with Federico Fluxá Córdoba´s medium post based on Nicolas Arzani Domenget´s kaggle dataset.
+Describe parliament gender participation and votes types over time using Tableau and Python. I worked with Federico Fluxá Córdoba´s medium post based on Nicolas Arzani Domenget´s kaggle dataset.
 
  
 
